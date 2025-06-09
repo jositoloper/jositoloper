@@ -7,7 +7,7 @@ Here's a quick overview of my skills:
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,maven,spring,mysql,postman&theme=light)](https://skillicons.dev)
 
 # 📬 How to Reach Me
-Feel free to reach out to me at **jositoloper@gmail.com**. I am always open to engaging in discussions, sharing knowledge, and exploring new opportunities.
+Feel free to reach out to me at **jlpzsan@gmail.com**. I am always open to engaging in discussions, sharing knowledge, and exploring new opportunities.
 
 <!--
 **jositoloper/jositoloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
